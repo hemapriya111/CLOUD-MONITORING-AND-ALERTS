@@ -1,5 +1,5 @@
 CLOUD-MONITORING-AND-ALERTS
-#Company: CodTech IT Solutions #Intern Name: Hemapriya A #Intern ID: CT04DG693 #Domain: Cloud Computing #Duration: 4 Weeks #Mentor: Neela Santosh
+#Company: CodTech IT Solutions #Intern Name: HEMAPRIYA A #Intern ID: CT04DG693 #Domain: Cloud Computing #Duration: 4 Weeks #Mentor: Neela Santosh
 
 As part of my internship at CodTech IT Solutions, I worked on implementing cloud resource monitoring and automated alerting using Google Cloud Platform (GCP). The objective of this task was to gain practical experience in monitoring virtual machine (VM) resources, setting up alerting policies, and ensuring proactive incident response through GCP's integrated monitoring tools.
 
